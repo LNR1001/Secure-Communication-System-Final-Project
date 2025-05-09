@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Byte-compiled / cache files
+*.pyc
+
+# VS Code
+.vscode/
+
+# JSON files that are generated (optional)
+Transmitted_Data.json
+keys/
