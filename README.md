@@ -69,8 +69,3 @@ Expected output:
 [+] Decrypted Message:
 Hello Receiver! This is a secure test.
 ```
-
-### 7. Freeze dependencies (optional for sharing/reproducibility)
-```bash
-pip freeze > requirements.txt
-```
